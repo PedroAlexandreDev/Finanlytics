@@ -1,6 +1,3 @@
-Claro! Aqui está o conteúdo **completo do `README.md` já formatado inteiramente em Markdown**, com tudo dentro de um único bloco e pronto para ser colado no seu projeto:
-
-```markdown
 # 💼 Finanlytics — Controle Financeiro Interativo com Streamlit
 
 O **Finanlytics** é um painel interativo desenvolvido em Python com Streamlit e Plotly, que permite visualizar, filtrar e analisar suas finanças pessoais com base em arquivos `.csv` ou `.xlsx`. Ideal para quem quer acompanhar receitas, despesas e saldo ao longo do tempo de forma simples e visual.
