@@ -1,0 +1,43 @@
+# Core do projeto
+streamlit==1.45.1
+pandas==2.2.3
+numpy==2.2.6
+pyarrow==20.0.0
+
+# Visualização (escolha uma ou duas no máximo)
+altair==5.5.0  # leve e integrado ao Streamlit
+plotly==6.1.1  # interativo e poderoso
+
+# Suporte a gráficos/imagens
+pillow==11.2.1
+
+# Utilidades de sistema e dados
+requests==2.32.3
+urllib3==2.4.0
+certifi==2025.4.26
+charset-normalizer==3.4.2
+idna==3.10
+
+# Necessárias para Streamlit funcionar
+click==8.2.1
+attrs==25.3.0
+blinker==1.9.0
+tornado==6.5.1
+watchdog==6.0.0
+protobuf==6.31.0
+python-dateutil==2.9.0.post0
+typing_extensions==4.13.2
+tzdata==2025.2
+pytz==2025.2
+jinja2==3.1.6
+markupsafe==3.0.2
+packaging==24.2
+
+# Para validações JSON (caso use)
+jsonschema==4.23.0
+jsonschema-specifications==2025.4.1
+referencing==0.36.2
+rpds-py==0.25.1
+
+
+
