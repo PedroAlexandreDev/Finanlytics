@@ -4,12 +4,6 @@ O **Finanlytics** é um painel interativo desenvolvido em Python com Streamlit e
 
 ---
 
-## 📸 Demonstração
-
-![Dashboard Exemplo](https://via.placeholder.com/1000x400.png?text=Exemplo+de+Dashboard+Finanlytics)
-
----
-
 ## 🚀 Funcionalidades
 
 - 📤 Upload de arquivos financeiros (`.csv` ou `.xlsx`)
