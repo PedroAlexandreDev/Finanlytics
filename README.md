@@ -131,7 +131,7 @@ finanlytics/
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Seu Nome**  
+Desenvolvido por **Pedro Augusto Alexandre**  
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
 ---
